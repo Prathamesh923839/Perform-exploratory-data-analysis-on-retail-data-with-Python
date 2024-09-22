@@ -25,6 +25,6 @@ Findings: Spotted the top products  and countries.
 
 
 Project link(s)
-COURSERA LAB
-https://hub.labs.coursera.org/connect/sharedvhwdpuzt?forceRefresh=false&path=%2Fnotebooks%2Fonline_retail.ipynb&isLabVersioning=file-prep
+COURSERA lab
+https://hub.labs.coursera.org:443/connect/sharedvhwdpuzt?forceRefresh=false&path=%2Fnotebooks%2Fonline_retail.ipynb&isLabVersioning=file-prep
 
